@@ -1,1 +1,1 @@
-# Basic Projects on Deep Learning,
+# Basic Projects on Deep Learning
